@@ -1,0 +1,83 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#mini-header{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 50px 20px 50px;
+}
+#hr-header{
+    border: none;
+    height: 4px;
+    background-color: coral;
+}
+#text-name{
+    display: flex;
+    width: 100%;
+}
+#image-text{
+    margin-left: 10px;
+}
+main{
+    margin: 20px 50px 50px 50px;
+}
+#personal{
+    display: flex;
+    margin-bottom: 20px;
+}
+#personal p{
+    width: 70%;
+    margin-left:64px;
+    margin-bottom: 20px;
+}
+#work{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#work1{
+    margin-bottom: 7px;
+}
+#total{
+    width: 70%;
+    margin-left: 40px;
+}
+#total h4{
+    font-size: 1.2rem;
+}
+#total h5{
+    font-style: italic;
+    color: rgb(100, 100, 100);
+}
+#key{
+    display: flex;
+    margin-top: 20px;
+}
+#totale{
+    margin-left: 102px;
+    margin-bottom: 20px;
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+}
+h3{
+    color: chocolate;
+}
+#education{
+    display: flex;
+    margin-top: 20px;
+    width: 70%;
+}
+#Collage{
+    margin-left: 86px;
+}
+#Collage h4{
+    font-size: 1.2rem;
+}
+#Collage h5{
+    font-style: italic;
+    color: rgb(87, 87, 85);
+}
+
+
